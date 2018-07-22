@@ -1,2 +1,4 @@
-# jQuery_mega_menu
-this is a responsiv jQuery Mega menu with multi Dropdown
+
+See JqueryScript Doc https://www.jqueryscript.net/menu/Responsive-Mega-Menu-jQuery.html
+
+for Full Information 
